@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticlassClassificationSample", "MulticlassClassificationSample\MulticlassClassificationSample.csproj", "{19722DCB-F17B-4B00-AA29-82398C23468C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticlassClassifier", "MulticlassClassifier\MulticlassClassifier.csproj", "{7260C20A-BD9E-495E-BF86-E412F6142789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19722DCB-F17B-4B00-AA29-82398C23468C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19722DCB-F17B-4B00-AA29-82398C23468C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19722DCB-F17B-4B00-AA29-82398C23468C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19722DCB-F17B-4B00-AA29-82398C23468C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7260C20A-BD9E-495E-BF86-E412F6142789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7260C20A-BD9E-495E-BF86-E412F6142789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7260C20A-BD9E-495E-BF86-E412F6142789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7260C20A-BD9E-495E-BF86-E412F6142789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
